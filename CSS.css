@@ -1,0 +1,105 @@
+
+body{
+  position:absolute;
+  width: 1440px;
+
+}
+h1{
+  color: hsl(212, 21%, 14%);
+  margin-left: 44px;
+  margin-right: 44px;
+  margin-top: 10px;
+  font-family: 'Merriweather', serif;
+
+}
+h2{
+  color: hsl(30, 38%, 80%);
+  font-size: 14px;
+  margin-left: 44px;
+  margin-right: 44px;
+  font-weight: 500;
+  font-family: 'Fraunces', serif;
+  
+}
+table{
+  background-color: hsl(158, 36%, 37%);
+  margin-left: 44px;
+  margin-right: auto;
+  height: 50px;
+  width: 200px;
+  border-radius: 10px;
+  position: absolute;
+  }
+td{
+  color: hsl(30, 38%, 92%);
+  display: inline-table;
+}
+tr{
+  align-content: center;
+  margin-bottom: 44px;
+}
+p{
+  display: inline-block;
+
+}
+img{
+  align-content: center;
+}
+.column-1{
+  float: left;
+  height: 432px;
+  width: 288px;
+  margin-left: 432px;
+  margin-top: 332px;
+
+}
+
+.column-2{
+position: absolute;
+left: 720px;
+height: 432px;
+width: 288px;
+margin-top: 332px;
+background-color: hsl(0, 0%, 100%);
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;
+font-family: 'Montserrat', sans-serif;
+
+}
+.name{
+  color: hsl(30, 38%, 80%);
+  margin-top: 20px;
+
+}
+.attribution{
+  position: relative;
+  padding-top: 1084px;
+
+}
+.chanel-PERFUME{
+width: 100%;
+border-top-left-radius: 10px;
+border-bottom-left-radius: 10px;
+}
+.pr-1{
+  color: hsl(158, 36%, 37%);
+  margin-left: 44px;
+  font-size: 30px;
+
+}
+.pr-2{
+  text-decoration: line-through;
+  color: hsl(30, 38%, 80%);
+  margin-left: 10px;
+  position: absolute;
+  margin-top: 40px;
+
+}
+.td-1{
+  margin-top: 10px;
+  margin-left: 48.699px;
+}
+.td-2{
+  margin-top: 10px;
+
+}
